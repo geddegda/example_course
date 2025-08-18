@@ -5,3 +5,5 @@ if True:
     print(f"value is: {x}")
 result = functionabc(9, 3)
 print(f"Result from the function is {result}")
+
+y = 10 + 19
