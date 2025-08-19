@@ -3,7 +3,13 @@ project 1
 blabhlbah
 
 ## guillaume
+this is a **situation**
 
 ### licence
+this is a _license_
 
-####john
+In order to install in windows...
+
+
+
+
